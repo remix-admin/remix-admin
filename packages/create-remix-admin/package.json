@@ -1,12 +1,11 @@
 {
   "name": "create-remix-admin",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "qianchengjie",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitejs/vite.git",
-    "directory": "packages/create-vite"
+    "url": "git+https://github.com/remix-admin/remix-admin.git",
+    "directory": "packages/create-remix-admin"
   }
 }
