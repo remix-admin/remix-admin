@@ -6,6 +6,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/remix-admin/remix-admin.git",
-    "directory": "packages/create-remix-admin"
+    "directory": "packages/remix-admin"
   }
 }

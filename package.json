@@ -1,6 +1,9 @@
 {
-  "name": "remix-admin",
+  "name": "@remix-admin/remix-admin-monorepo",
   "private": true,
   "author": "qianchengjie",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  }
 }
