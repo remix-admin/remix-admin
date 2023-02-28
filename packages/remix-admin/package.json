@@ -1,0 +1,11 @@
+{
+  "name": "remix-admin",
+  "version": "1.0.1",
+  "author": "qianchengjie",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remix-admin/remix-admin.git",
+    "directory": "packages/create-remix-admin"
+  }
+}
